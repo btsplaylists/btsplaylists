@@ -79,7 +79,7 @@ iframe {
 @media (max-width: 600px) {
 #cust-img-fluid {
     float:left;
-}
+    width: 100%;
 
   .btn {
     margin: 2px 2px 2px 2px;
