@@ -331,5 +331,6 @@ main {
     color: white;
     height: 37px;
     background-image: linear-gradient( #9D50BB, #6E48AA);
+    margin-top: 5px;
 }
 
